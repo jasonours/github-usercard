@@ -5,7 +5,7 @@
 
 // axios.get('https://api.github.com/users/jasonours')
 //   .then (response => {
-//     return response
+//     console.log(response.data)
 //   })
 
 /* Step 2: Inspect and study the data coming back, this is YOUR 
